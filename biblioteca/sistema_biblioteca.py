@@ -1,4 +1,3 @@
-#sistema_biblioteca.py
 from materiales.libro_fisico import LibroFisico
 from materiales.libro_digital import LibroDigital
 

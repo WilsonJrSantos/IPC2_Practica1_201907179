@@ -1,6 +1,4 @@
-# materiales/libro_fisico.py
-
-from .material_biblioteca import MaterialBiblioteca
+from material_biblioteca import MaterialBiblioteca
 
 class LibroFisico(MaterialBiblioteca):
     """

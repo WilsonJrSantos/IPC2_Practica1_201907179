@@ -1,5 +1,3 @@
-# materiales/libro_digital.py
-
 from .material_biblioteca import MaterialBiblioteca
 
 class LibroDigital(MaterialBiblioteca):
